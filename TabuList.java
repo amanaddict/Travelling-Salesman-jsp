@@ -1,8 +1,3 @@
-/**
- *
- * @author http://voidException.weebly.com
- * Use this code at your own risk ;)
- */
 public class TabuList {
     
     int [][] tabuList ;
